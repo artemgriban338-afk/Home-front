@@ -1,0 +1,52 @@
+body {
+    font-family: Arial;
+    background-color:green;
+    color:darkorange;
+    text-align: center;
+}
+
+header {
+   
+    padding: 20px;
+}
+
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: lightblue;
+    color: black;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    background-color: white;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 3px;
+}
+
+img {
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 10px;
+    margin-top: 20px;
+}
